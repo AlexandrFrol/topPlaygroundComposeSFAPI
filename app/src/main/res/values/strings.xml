@@ -1,4 +1,13 @@
 <resources>
-    <string name="app_name">topPlaygroundCompose</string>
-    <string name="hello">Привет</string>
+    <string name="app_name">SpaceFlight News</string>
+    <string name="articles_title">Articles</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="article_detail_title">Article Details</string>
+    <string name="no_articles">No articles found</string>
+    <string name="no_favorites">No favorite articles</string>
+    <string name="back">Back</string>
+    <string name="toggle_favorite">Add to favorites</string>
+    <string name="open_full_article">Open full article</string>
+    <string name="retry">Retry</string>
+    <string name="error">Error</string>
 </resources>
